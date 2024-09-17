@@ -24,7 +24,7 @@ bun run format # format code
 ```
 
 ## 💕Credit
-Totally made by [Suhaib King](https://protool.cloud)
+Totally made by [Suhaib King](https://suhaib.protool.co.in)
 
 
 ### ✨ Discord Profile
